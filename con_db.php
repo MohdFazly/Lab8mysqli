@@ -8,7 +8,8 @@
 </head>
 <body>
 <?php
-define('db_user', 'root'); 3 define('db_password','');
+define('db_user', 'root');
+define('db_password','');
 define('db host', 'localhost');
 define('db_name', 'registration');
 
